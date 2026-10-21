@@ -1,0 +1,15 @@
+{
+  "app": {
+    "name": "스마트 자리바꾸기",
+    "url": "https://club-attendance-manager.vercel.app",
+    "stack": "Vite"
+  },
+  "tracks": [
+    "security"
+  ],
+  "edzipCase": null,
+  "teacher": {
+    "dormsHandle": ""
+  },
+  "ownershipConfirmed": true
+}
