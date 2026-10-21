@@ -48,6 +48,38 @@
         },
         "blocking": []
       }
+    },
+    {
+      "n": 4,
+      "at": "2026-10-21T07:36:38.099Z",
+      "security": {
+        "score": null,
+        "grade": null,
+        "eligible": false,
+        "outcome": "unavailable",
+        "coverage": {
+          "checked": 4,
+          "unverified": 2,
+          "notApplicable": 0
+        },
+        "blocking": []
+      }
+    },
+    {
+      "n": 5,
+      "at": "2026-10-21T07:37:31.684Z",
+      "security": {
+        "score": null,
+        "grade": null,
+        "eligible": false,
+        "outcome": "unavailable",
+        "coverage": {
+          "checked": 4,
+          "unverified": 2,
+          "notApplicable": 0
+        },
+        "blocking": []
+      }
     }
   ],
   "items": {
@@ -76,7 +108,7 @@
       "regressed": false
     },
     "meta.public-surface": {
-      "status": "pass",
+      "status": "unknown",
       "firstFailRound": null,
       "fixedRound": null,
       "regressed": false
@@ -269,7 +301,7 @@
     }
   },
   "passed": {
-    "security": true,
+    "security": false,
     "edzip": false,
     "protection": false
   },
